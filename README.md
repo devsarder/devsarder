@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm devsarder</h1>
+<h1 align="center">Hi 👋, I'm sujon sarder</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 - 🌱 I’m currently learning **JS,React,Firebase,Tailwind,html,css**
